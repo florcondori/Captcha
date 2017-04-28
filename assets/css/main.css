@@ -12,6 +12,8 @@ img{
 }
 a{
 	text-decoration: none;
+	border-radius: 100%;
+	overflow: hidden;
 }
 .contenido-general{
 	width: 350px;
