@@ -38,7 +38,7 @@ function verificarCodigo(e){
 	var respuesta = document.getElementById("respuesta").value;
 
 	if(codigo === respuesta){
-		alert("bien");
+		alert("BIEN");
 	}else{
 		alert("MAL");
 	}

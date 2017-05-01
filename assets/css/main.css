@@ -15,6 +15,12 @@ a{
 	text-decoration: none;
 }
 .contenido-general{
+	position: absolute;
+	display: inline-block;
+	top: 50%;
+	left: 50%;
+	margin-top: -175px;
+	margin-left: -100px;
 	width: 200px;
 	height: 250px;
 	padding: 10px;
